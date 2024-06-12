@@ -2,6 +2,8 @@
 
 This is a food ordering system that allows users to register, login, place orders, browse for restaurants and cuisines and generate bill according to the order. The program is built using object-oriented programming in C++ and file handling to store and retrieve data.
 
+This project was built as part of the Software Engineering course.
+
 ## Features
 
 ### Register
